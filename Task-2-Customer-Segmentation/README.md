@@ -1,3 +1,4 @@
+# Customer Segmentation Using Unsupervised Learning
 ## 📌 Project Objective
 The objective of this project is to analyze customer demographic attributes and retail mall purchase habits. By running an unsupervised K-Means clustering sequence, we segment customers into distinct behavioral patterns to design targeted marketing strategies for maximum revenue convergence.
 
